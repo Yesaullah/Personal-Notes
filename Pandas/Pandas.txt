@@ -1,0 +1,10 @@
+-> Dataframes in pandas can store data of different datatypes.
+-> Dataframes in pandas store data in 2 dimensions, with labelled rows and columns.
+-> Rows in dataframes are referred as Indexes.
+-> Dataframes can be converted to actual files using to_csv(), to_parquet() and other such methods.
+-> When accessing data from files, we make use of loc() and iloc(), where loc() accpets actual column names and iloc() accepts indexes for columns as well. 
+-> Using slicing() in iloc() means that the upper index wont be accessed, however this is not the case for loc().
+-> Usage of query() method for filtering data:
+    1) To add variables to a query() method we use @
+    2) String methods can be used within the query() method.
+    3) Using 'inplace = True', modifies the original dataframe.
