@@ -8,3 +8,4 @@
     1) To add variables to a query() method we use @
     2) String methods can be used within the query() method.
     3) Using 'inplace = True', modifies the original dataframe.
+-> A Series, by contrast, is a sequence of data values. If a DataFrame is a table, a Series is a list.
