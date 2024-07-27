@@ -1,2 +1,0 @@
-Datetime percentage format cheat sheet:
-https://strftime.org/
