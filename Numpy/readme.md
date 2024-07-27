@@ -1,4 +1,4 @@
-**Notes**
+# **Notes**
 -> In Numpy, number of dimensions of the array is called RANK of the array.
 -> A tuple of integers giving the size of the array along each dimension is known as SHAPE of the array.
 -> Each array in numpy has a datatype (dtype) object.
